@@ -1,0 +1,20 @@
+.logotipo{
+    width: 130px;
+}
+main{
+    background-color: black;
+    height: 1000px;
+}
+header{
+    background-color: black;
+    height: 150px;
+    color: aliceblue;
+}
+footer{
+    background-color: black;
+    height: 150px;
+    color: aliceblue;
+}
+.frangoassado{
+    height: 300px;
+}
